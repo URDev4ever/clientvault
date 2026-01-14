@@ -1,4 +1,8 @@
 <h1 align="center">🔐 ClientVault</h1>
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 <h3 align="center">ClientVault is a lightweight, in-page web security tool that lets you inspect, analyze, and manage all client-side storage used by a website — including cookies, localStorage, sessionStorage, and more. Built for developers, pentesters, and bug bounty hunters.</h3>
 
 ---
