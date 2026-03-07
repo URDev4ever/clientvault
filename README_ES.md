@@ -202,6 +202,24 @@ Sin logs.
 
 ---
 
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la **interfaz o experiencia de usuario** del inspector
+* Agregan soporte para **otros mecanismos de almacenamiento del navegador** (IndexedDB, Cache API, Service Workers)
+* Mejoran la **visualización de JSON y la lectura de tokens**
+* Añaden funciones útiles para **pentesting o debugging**
+* Mantienen el proyecto **ligero, local y respetuoso con la privacidad**
+
+Antes de enviar una PR:
+
+1. Mantener el script **sin dependencias externas**
+2. Preservar la **compatibilidad entre navegadores**
+3. Evitar funciones que requieran **servidores externos o recolección de datos**
+
+---
+
 ## ⚖️ DISCLAIMER
 
 ClientVault es para:
