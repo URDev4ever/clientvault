@@ -201,6 +201,24 @@ No logging.
 
 ---
 
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve the **UI/UX of the storage inspector**
+* Add support for **additional browser storage mechanisms** (IndexedDB, Cache API, Service Workers)
+* Improve **JSON visualization and token readability**
+* Add useful **analysis features for pentesting or debugging**
+* Keep the project **lightweight, browser-only, and privacy-respecting**
+
+Before submitting a PR:
+
+1. Keep the script **dependency-free**
+2. Maintain **cross-browser compatibility**
+3. Avoid adding features that require **external servers or data collection**
+
+---
+
 ## ⚖️ DISCLAIMER
 
 ClientVault is for:
